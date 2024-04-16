@@ -100,3 +100,15 @@ The output is as follow
 
 # Perbandingan hasil SVM dan ANN
 tugas SVM dapat dilihat pada repository <a href ="https://github.com/Ivan027void/Tugas-2-ML">ini</a>
+
+## klasifikasi
+ 1. SVM
+ model dengan kernel RBF berhasil memprediksi dengan akurasi 77%
+ 2. ANN
+ model dengan 4 layer (input, 2 hidden, output) mendapatkan akurasi 81% setelah menghilangkan outlier
+
+## regresi
+ 1. SVM
+ model dengan polynomial derajat 3 memperoleh nilai mse MSE:0.24545393642224678
+ 2. ANN
+ model dengan 4 layer (input, 2 hidden, output) menggunakan loss mse mendapat nilai 0.25035950541496277
