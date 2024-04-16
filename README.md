@@ -17,6 +17,53 @@ Kumpulkan kedua tugas tersebut menggunakan repository pada github dengan nama re
 - ⁠File requirements.txt yang berisi library yang digunakan
 - ⁠File README.md yang berisi penjelasan tentang kedua tugas yang dikerjakan beserta perbandingan akurasi SVM dan ANN
 
+
+## How to Use
+
+### Setting Up the Environment
+
+1. Create a new conda environment named "tugas-11-ANN" with Python 3.10:
+
+    ```bash
+    conda create --name tugas-11-ANN python=3.10
+    ```
+
+2. Activate the newly created environment:
+
+    ```bash
+    conda activate tugas-11-ANN
+    ```
+
+### Installing Required Modules
+
+3. Install the required modules listed in the `requirements.txt` file:
+
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+### Running the Code
+
+4. Once the environment is set up and the required modules are installed, you can run your code or scripts that depend on these modules within the "tugas-11-ANN" environment.
+
+5. Remember to activate the environment before running your code:
+
+    ```bash
+    conda activate tugas-11-ANN
+    ```
+
+6. Execute your Python scripts or Jupyter notebooks as usual.
+
+### Deactivating the Environment
+
+7. When you're done working with your project, deactivate the conda environment:
+
+    ```bash
+    conda deactivate
+    ```
+
+---
+
 **Dataset yang dipakai**
 ### Support Vector Clasifier (SVC)
 Dataset dari kaggle https://www.kaggle.com/datasets/pushprajnamdev/diabetes-dataset
