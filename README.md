@@ -1,17 +1,21 @@
-## Tugas 2 - Pembelajaran Mesin
-Artikel berikut menjadi referensi dalam mengerjakan Tugas 2 - Pembelajaran Mesin:
-
-<a herf>https://medium.com/@youness.habach/support-vector-machines-svm-explanation-mini-project-9d4b4962be52</href>
-<p>Anda diminta untuk menggunakan SVM dalam menyelesaikan 2 kasus yaitu Klasifikasi dan Regresi dengan menggunakan dataset yang tidak sama dengan dataset yang ada pada referensi.<p></p>
-
+## Pertemuan 11 ANN
 <p>Nama: Ivan Chiari</p>
-<p></p>NPM : 2108107010027</p>
+<p>NPM : 2108107010027</p>
 
-**Libary Python yang dipakai**
-1. Numpy
-2. Scikit-Learn
-3. Matplotlib
-4. Seaborn
+
+Materi bacaan: 
+- https://www.megabagus.id/deep-learning-artificial-neural-networks/ (halaman 1 - 7)
+- ⁠⁠https://www.megabagus.id/deep-learning-artificial-neural-networks-aplikasi (halaman 1 - 4)
+
+Pahami isi dari kedua artikel tersebut dan kerjakan:
+- Contoh pada artikel kedua menggunakan tensorflow pada python environment
+- ⁠Tugas 2 sebelumnya menggunakan SVM, kerjakan dengan menggunakan ANN pada python environment yang sama
+
+Kumpulkan kedua tugas tersebut menggunakan repository pada github dengan nama repository: NPM_Pertemuan_11_ANN. Repository tersebut berisi:
+- Dataset sebelum dipreprocessing (format csv)
+- ⁠Kode python yang memuat process preprocessing, training, testing dan perhitungan akurasi
+- ⁠File requirements.txt yang berisi library yang digunakan
+- ⁠File README.md yang berisi penjelasan tentang kedua tugas yang dikerjakan beserta perbandingan akurasi SVM dan ANN
 
 **Dataset yang dipakai**
 ### Support Vector Clasifier (SVC)
@@ -46,3 +50,6 @@ The inputs are as follows
 
 The output is as follow
 * Y house price of unit area (10000 New Taiwan Dollar/Ping, where Ping is a local unit, 1 Ping = 3.3 meter squared)
+
+# Perbandingan hasil SVM dan ANN
+tugas SVM dapat dilihat pada repository <a href ="https://github.com/Ivan027void/Tugas-2-ML">ini</a>
