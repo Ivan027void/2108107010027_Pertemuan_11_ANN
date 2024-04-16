@@ -65,7 +65,7 @@ Kumpulkan kedua tugas tersebut menggunakan repository pada github dengan nama re
 ---
 
 **Dataset yang dipakai**
-### Support Vector Clasifier (SVC)
+### klasifikasi
 Dataset dari kaggle https://www.kaggle.com/datasets/pushprajnamdev/diabetes-dataset
 
 <p> in particular, all patients here are females at least 21 years old of Pima Indian heritage.</p>
@@ -80,7 +80,7 @@ Dataset dari kaggle https://www.kaggle.com/datasets/pushprajnamdev/diabetes-data
 * Age: Age (years)
 * Outcome: Class variable (0 or 1)
 
-### Support Vector Regresion (SVR)
+### predict unit price
 <p>Konteks:</p>
 <p>Untuk mempelajari lebih lanjut tentang Algoritma SVM dan khususnya Regresi, saya telah mengunduh kumpulan data Penilaian Real Estat dari Repositori Pembelajaran Mesin UCI.</p>
 <p>Ini adalah Kumpulan Data yang diunduh dari Repositori Pembelajaran Mesin UCI.<p>
